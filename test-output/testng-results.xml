@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2016-08-19T22:08:35Z" finished-at="2016-08-19T22:08:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2016-08-19T22:08:35Z" finished-at="2016-08-19T22:08:35Z">
+      <class name="com.myalgo.algorithm1.testReverseStringByChar">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="init" is-config="true" duration-ms="8" started-at="2016-08-19T15:08:35Z" finished-at="2016-08-19T15:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testReverseString(java.lang.String)[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="testReverseString" duration-ms="5" started-at="2016-08-19T15:08:35Z" data-provider="testdata" finished-at="2016-08-19T15:08:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This is first test data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReverseString -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="init" is-config="true" duration-ms="0" started-at="2016-08-19T15:08:35Z" finished-at="2016-08-19T15:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testReverseString(java.lang.String)[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="testReverseString" duration-ms="1" started-at="2016-08-19T15:08:35Z" data-provider="testdata" finished-at="2016-08-19T15:08:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This is second test data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReverseString -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="init" is-config="true" duration-ms="0" started-at="2016-08-19T15:08:35Z" finished-at="2016-08-19T15:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testReverseString(java.lang.String)[pri:0, instance:com.myalgo.algorithm1.testReverseStringByChar@40a04430]" name="testReverseString" duration-ms="0" started-at="2016-08-19T15:08:35Z" data-provider="testdata" finished-at="2016-08-19T15:08:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This is third test data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReverseString -->
+      </class> <!-- com.myalgo.algorithm1.testReverseStringByChar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
